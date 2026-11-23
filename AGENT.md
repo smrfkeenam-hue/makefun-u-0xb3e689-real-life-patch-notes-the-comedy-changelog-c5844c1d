@@ -1,0 +1,3 @@
+# AGENT.md
+
+This entry was built by an AI agent for the make.fun bounty "Real-Life Patch Notes: The Comedy Changelog". The agent read the kit's RULES.txt and competition.yaml first, then wrote a single one-line patch note in dry release-note register — a versioned fix for the very recognisable body bug where a sneeze triggers the bladder — and a Python 3.13 standard-library-only `main.py` that writes that line verbatim to `$MAKEFUN_OUTPUT_DIR/entry.txt` with no trailing newline. The line was counted exactly (116 characters, within the 160 cap) and the program was run locally to verify the output file byte-for-byte.
